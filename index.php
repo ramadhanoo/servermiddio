@@ -2,7 +2,7 @@
 // Set your server key (Note: Server key for sandbox and production mode are different)
 $server_key = 'SB-Mid-server-w5e5xXjxtHL7ecHJ48qcnEhT';
 // Set true for production, set false for sandbox
-$aku = "dio";
+
 $is_production = false;
 
 $api_url = $is_production ? 
